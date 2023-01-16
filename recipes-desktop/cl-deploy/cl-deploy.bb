@@ -120,4 +120,4 @@ FILES_${PN} = " \
 "
 
 RDEPENDS_${PN} = "bash pv dialog file gzip bzip2 dosfstools util-linux xz-utils e2fsprogs parted gdisk uuid-runtime bc"
-PACKAGE_ARCH = "all"
+#PACKAGE_ARCH = "all"
